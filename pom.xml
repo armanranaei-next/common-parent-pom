@@ -3,14 +3,14 @@
 	
      <!--The identifier of the BOM-->
     <parent>
-        <groupId>bdda7453-25b1-4ab5-be35-f32d9b8ce1cb</groupId>
+        <groupId>dc5b04be-7c11-4e41-a6be-7c560891cd63</groupId>
         <artifactId>mulesoft-BOM</artifactId>
         <version>1.0.0</version>
     </parent>
     
     <modelVersion>4.0.0</modelVersion>
 	
-    <groupId>bdda7453-25b1-4ab5-be35-f32d9b8ce1cb</groupId>
+    <groupId>dc5b04be-7c11-4e41-a6be-7c560891cd63</groupId>
 	<artifactId>mulesoft-parent-pom</artifactId>
 	<version>1.0.0</version>
 	<packaging>pom</packaging>
